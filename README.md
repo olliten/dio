@@ -2,24 +2,34 @@
 
 We are running out of time.
 
-Every region of the world is seeing irreversible damage due to climate change. The new report by the United Nation's Intergovernmental Panel on Climate (IPCC) states that "unless there are immediate, rapid and large-scale reductions in greenhouse gas emissions, limiting warming to close to 1.5°C or even 2°C will be beyond reach."
+Every region of the world is seeing irreversible damage due to climate change. [The new report](https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/) by the United Nation's Intergovernmental Panel on Climate (IPCC) states that "unless there are immediate, rapid and large-scale reductions in greenhouse gas emissions, limiting warming to close to 1.5°C or even 2°C will be beyond reach."
+
 In other words, extreme mitigation is needed.
 
-_insert picture_
-Picture 1: CO2 reduction pathways to keep global temperature rise below 1.5 °C. Our World in Data.
+
+![640px-CO2_reduction_pathways_for_preventing_1 5ºC_global_warming_2019](https://user-images.githubusercontent.com/41123852/131953313-ae52c837-e9c1-4c35-a9bb-129c9495299d.png)
+
+_Picture 1: CO2 reduction pathways to keep global temperature rise below 1.5 °C. Our World in Data._
+
 
 The challenge is daunting. Getting gradually to net zero emissions is not nearly enough — we also need to draw carbon from the atmosphere.
+
 Almost every part of the economy needs to be transformed — from eliminating emissions in electricity production, food, agriculture, land use, industry, transportation, and buildings to creating natural and artificial carbon sinks on land and in the oceans.
 
-_insert picture_
-Picture 2: Emission sources & natural sinks. Drawdown.org.
 
-The undertaking requires integrated interventions in economic, political, technological, and social systems along whole value chains. All levers of change must be simultaneously engaged: technological innovation, policy and regulatory frameworks, financing models, social norms and behaviors, skills and capabilities, citizen participation models, identities and narratives of individuals and collectives, business models, and production and consumption paradigms.
+![emissions2](https://user-images.githubusercontent.com/41123852/131953540-b93e008b-600f-4050-80d9-94ac9c73d68a.png)
+_Picture 2: Emission sources & natural sinks. Drawdown.org._
 
-_insert picture_
-Picture 3: Global food production as a complex adaptive system.
 
-Furthermore, because the systems are complex (see Picture 3) and behave unpredictably, deterministic plans are bound to fail. Instead, we need to experiment our way forward.
+The undertaking requires [integrated interventions](https://medium.com/in-search-of-leverage/innovating-in-complexity-part-ii-from-single-point-solutions-to-directional-systems-innovation-dfb36fcfe50) in economic, political, technological, and social systems along whole value chains. [All levers of change](https://www.climate-kic.org/opinion/transformation-capital-new-investment-logic/) must be simultaneously engaged: technological innovation, policy and regulatory frameworks, financing models, social norms and behaviors, skills and capabilities, citizen participation models, identities and narratives of individuals and collectives, business models, and production and consumption paradigms.
+
+
+![foodsystem2](https://user-images.githubusercontent.com/41123852/131953742-99c84256-c5f0-4bcc-898a-f8a01b728846.jpg)
+_Picture 3: Global food production as a complex adaptive system._
+
+
+Furthermore, because the systems are complex (see Picture 3) and behave unpredictably, [deterministic plans are bound to fail](https://medium.com/in-search-of-leverage/innovating-in-complexity-part-i-why-most-roadmaps-lead-straight-to-the-graveyard-ced34b5a23fa). Instead, we need to experiment our way forward.
+
 The current market pull is not sufficient enough to incentivize effective experimentation. Yet, coordinating these experiments across different systems and levers over the next decades is impossible for any centralized actors such as governments. 
 
 Therefore, we need to create new market mechanisms that reframe people's thinking to the longer term and to things that are better subjects for their attention.
@@ -28,8 +38,9 @@ Therefore, we need to create new market mechanisms that reframe people's thinkin
 
 Enter social policy bonds.
 
-Social policy bonds (SPBs), originally proposed by Ronnie Horesh in 1988, are financial instruments that reward people when they achieve social goals.
-The bonds are simple in design. They do not bear interest and are redeemable for a fixed sum when a specified social objective is reached. The bonds are distributed to preselected agents or auctioned off to the highest bidders. After this they freely trade in the open market causing their market value to rise and fall.
+Social policy bonds (SPBs), [originally proposed](https://socialgoals.com/ieaspbs.pdf) by [Ronnie Horesh](http://socialgoals.com/) in 1988, are financial instruments that reward people when they achieve social goals.
+
+The bonds are simple in design. They do not bear interest and are redeemable for a fixed sum when a specified social objective is reached. The bonds are distributed to preselected agents or auctioned off to the highest bidders. After this, they freely trade in the open market causing their market value to rise and fall.
 
 > _As an illustrative example: The city of Helsinki wants to reduce the city’s annual carbon dioxide emissions by 80% by 31st of December, 2030 as measured by real-time data from NASA's carbon-sensing satellites._
 > 
@@ -50,15 +61,17 @@ It is thus unlikely that social policy bonds will be spearheaded by governments 
 
 How to get them onboard?
 
+
 _*For comparison, the non-tradeable version of social policy bonds, "social impact bonds" (SIBs), that use preselected partners that deliver against a predetermined theory of change, have gained growing support across governments. Since 2010, 214 SIBs have been issued in 35 countries._
+
 
 ## Decentralized Impact Organizations ("DIOs") to Supercharge Social Policy Bonds
 
-Crypto has transformed grassroots-level organizing. For the first time in history, it is possible to economically align networks of strangers into working together by using programmable incentives and by providing them with tools to make decisions and govern shared resources in a decentralized manner. These new organisms are called by many “DAOs”, Decentralized Autonomous Organizations.
+Crypto has transformed grassroots-level organizing. For the first time in history, it is possible to economically align networks of strangers into working together by using programmable incentives and by providing them with tools to make decisions and govern shared resources in a decentralized manner. These new organisms are [called by many “DAOs”](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/), Decentralized Autonomous Organizations.
 
 An SPB and its bondholders together form an entity very similar to a DAO: the bondholders form a grassroots level organization and share an economic fate via the bonds they own. What is special about this type of "DAO" is that its token (the bond) derives its value from the quality of a public good. To distinguish them from generic DAOs, we’ll call these organizations "DIOs", Decentralized Impact Organizations.
 
-The technology for creating crypto-native DIOs already exists. Six months ago, UMA Protocol launched a new crypto-derivatives product called "Key Performance Indicator Options". KPI options were originally created so that crypto protocols could trustlessly guarantee that their community receives rewards for hitting milestones such as increasing Total Value Locked (TVL). However, their design allows them to be used for SPBs, too.
+The technology for creating crypto-native DIOs already exists. Six months ago, [UMA Protocol](https://umaproject.org/) launched a new crypto-derivatives product called "Key Performance Indicator Options". [KPI options](https://docs.umaproject.org/products/KPI-options) were [originally created](https://medium.com/uma-project/uma-kpi-options-and-airdrop-bae86be16ce4) so that crypto protocols could trustlessly guarantee that their community receives rewards for hitting milestones such as increasing Total Value Locked (TVL). However, their design allows them to be used for SPBs, too.
 
 KPI options are synthetic (ERC-20) tokens that will pay out rewards if a KPI reaches predetermined targets before the given expiry date. Every KPI option holder has an incentive to improve that KPI because then their option will be worth more.
 
@@ -71,7 +84,7 @@ Launching an SPB as a KPI option token is simple:
 
 DIOs that take advantage of KPI options not only democratize the creation of SPBs. They also radically expand SPBs’ properties. With KPI options...
 1. Anyone can issue tokens for free in a matter of hours - skipping month-long paperwork and massive costs required to list assets on traditional secondary markets.
-2. Anyone can add collateral, which enables multiple parties to join a contract to incentivize the change they want to see in the world. This is not a small feat. Philanthropic donations to mitigate climate change are growing rapidly, and for example, in the U.S between 2014 and 2019, they nearly doubled from $900 million to at least $1.6 billion. In addition, crowdfunding of climate goals may rocket in the coming years.
+2. Anyone can add collateral, which enables multiple parties to join a contract to incentivize the change they want to see in the world. This is not a small feat. Philanthropic donations to mitigate climate change are growing rapidly, and for example, in the U.S between 2014 and 2019, they [nearly doubled](https://www.climateworks.org/press-release/funding-trends-climate-change-mitigation-philanthropy/#:~:text=In%202019%2C%20philanthropic%20funding%20to,billion%20in%20total%20philanthropic%20giving.&text=Pinpointing%20activities%20that%20do%20not,climate%20solutions%20to%20be%20effective.) from $900 million to at least $1.6 billion. In addition, crowdfunding of climate goals [may rocket](https://unfccc.int/files/cooperation_and_support/financial_mechanism/standing_committee/application/pdf/paper_-_microfinancing_.pdf) in the coming years.
 3. At any time before expiry, more collateral can be added to the contract. This is useful because the optimal payout level is hard to determine beforehand. The size of the payout does not necessarily increase the probability of success linearly, and therefore market reaction can help determine whether the initial payout is too low and needs to be increased.
 4. Goals can be cascaded into a network of tokens. Investors owning a token can split a primary goal into several secondary goals and fund the secondary goals directly instead of picking and funding projects that may or may not succeed.
 5. Tokenholders can access the rapidly developing set of tools for decentralized organizations and 10X their ability to find each other, develop a sense of mission and belonging, and coordinate effective action across geographies.
@@ -99,8 +112,8 @@ The secondary goal for the pilot is to validate the need for a DIO launchpad —
 * Find issued tokens, and buy and sell them
 * Find & connect with other tokenholders and communities for each issued token
 
-The global climate finance market must grow at an unprecedented scale of $3-5 trillion per year in order to meet the Paris Agreement targets, and new market mechanisms are needed to channel those funds effectively. 
+The global climate finance market must grow at an unprecedented scale of [$3-5 trillion per year](https://www.theasset.com/treasury/42721/climate-finance-must-grow-by-us3-5-trillion-per-year-globally) in order to meet the Paris Agreement targets, and new market mechanisms are needed to channel those funds effectively. 
 
 The job for us now is to concretely demonstrate to parties funding climate action that decentralized technologies can provide a viable alternative.
 
-I want to thank @stskeeps from originally pointing me to the social policy bond literature, @LauriPietinalho for taking the role of a devil’s advocate and providing valuable suggestions for this proposal, and Ronnie Horesh, @JuhaLeppanen, @MikaPyykko for sharing their points of view on social policy bonds with me during the preparation of this essay.
+_I want to thank [@stskeeps](https://twitter.com/stskeeps) from originally pointing me to the social policy bond literature, [@LauriPietinalho](https://twitter.com/lauripietinalho?lang=en) for taking the role of a devil’s advocate and providing valuable suggestions for this proposal, and [Ronnie Horesh](https://socialgoals.com/index.html), [@JuhaLeppanen](https://twitter.com/juhaleppanen), [@MikaPyykko](https://twitter.com/MikaPyykko) for sharing their points of view on social policy bonds with me during the preparation of this essay._
